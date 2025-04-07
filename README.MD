@@ -3,7 +3,7 @@
 ## Project Overview
 
 This is a simple yet powerful **command-line chatbot** built using **LangChain** and **OpenAI's GPT-4** model. The chatbot maintains conversation history and allows for multi-turn dialogue through a persistent memory structure. It runs directly in your terminal, making it lightweight and beginner-friendly.
-
+![App UI](assets/chatbot_image.png)
 ## Key Features
 
 - 💬 Interactive chatbot using GPT-4  
